@@ -1,0 +1,137 @@
+[Client] Play Start !! 
+[Client] Summon entity {name:player, position(1, 1)}
+[Client] Summon entity {name:blue_orb, position(4, 4)}
+[Client] Summon entity {name:dark_green_slime, position(2, 2)}
+[Client] Summon entity {name:dark_yellow_slime, position(19, 19)}
+[Client] Summon entity {name:druid, position(12, 12)}
+[Client] Summon entity {name:mage, position(17, 17)}
+[Client] summon item {name:stairs position (20, 20)}
+[Client] summon item {name:sword_level1 position (16, 15)}
+[Client] summon item {name:shield_level1 position (13, 17)}
+[Client] summon item {name:portion position (8, 5)}
+[Client] summon item {name:portion position (3, 20)}
+[Client] summon item {name:portion position (17, 5)}
+[Client] summon item {name:portion position (11, 3)}
+[Client] summon item {name:portion position (8, 21)}
+[Client] summon item {name:portion position (15, 16)}
+[Client] Entity(dark_green_slime) attack. {attackPoint:10, position(2, 2)
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(blue_orb) move {position (4,4) -> (5, 4)}
+[Client] Entity(blue_orb) move {position (5,4) -> (5, 5)}
+[Client] Entity(blue_orb) move {position (5,5) -> (6, 5)}
+[Client] Entity(player) move {position (1,1) -> (2, 1)}
+[Client] Entity(druid) dead.
+[Client] Entity(blue_orb) move {position (6,5) -> (5, 5)}
+[Client] Entity(blue_orb) move {position (5,5) -> (4, 5)}
+[Client] Entity(player) move {position (2,1) -> (1, 1)}
+[Client] Entity(blue_orb) move {position (4,5) -> (4, 6)}
+[Client] Entity(blue_orb) move {position (4,6) -> (4, 5)}
+[Client] Entity(player) move {position (1,1) -> (1, 2)}
+[Client] Entity(blue_orb) move {position (4,5) -> (5, 5)}
+[Client] Entity(blue_orb) move {position (5,5) -> (5, 4)}
+[Client] Entity(dark_green_slime) attack. {attackPoint:10, position(2, 2)
+[Client] Entity(dark_yellow_slime) move {position (19,19) -> (18, 19)}
+[Client] Entity(blue_orb) move {position (5,4) -> (4, 4)}
+[Client] Entity(dark_yellow_slime) move {position (18,19) -> (19, 19)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(blue_orb) move {position (4,4) -> (4, 3)}
+[Client] Entity(blue_orb) move {position (4,3) -> (4, 2)}
+[Client] Entity(blue_orb) move {position (4,2) -> (3, 2)}
+[Client] Entity(blue_orb) move {position (3,2) -> (2, 2)}
+[Client] Entity(blue_orb) attack. {attackPoint:20, position(2, 2)
+[Client] Entity(dark_green_slime) attack. {attackPoint:10, position(2, 2)
+[Client] Entity(dark_yellow_slime) move {position (19,19) -> (18, 19)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(18, 19)
+[Client] Entity(blue_orb) attack. {attackPoint:20, position(2, 2)
+[Client] Entity(blue_orb) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(blue_orb) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(dark_green_slime) attack. {attackPoint:10, position(2, 2)
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(18, 19)
+[Client] Entity(blue_orb) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(blue_orb) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(blue_orb) attack. {attackPoint:20, position(2, 2)
+[Client] Entity(blue_orb) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(blue_orb) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(blue_orb) dead.
+[Client] Entity(mage) dead.
+[Client] Entity(dark_green_slime) attack. {attackPoint:10, position(2, 2)
+[Client] Entity(dark_green_slime) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(dark_green_slime) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(dark_yellow_slime) move {position (18,19) -> (19, 19)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(dark_green_slime) damage. {damagePoint:10, position(2, 2)
+[Client] Entity(dark_green_slime) dead.
+[Client] Entity(player) move {position (1,2) -> (2, 2)}
+[Client] Entity(player) move {position (2,2) -> (3, 2)}
+[Client] Entity(player) move {position (3,2) -> (4, 2)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(player) move {position (4,2) -> (4, 3)}
+[Client] Entity(player) move {position (4,3) -> (4, 4)}
+[Client] Entity(player) move {position (4,4) -> (5, 4)}
+[Client] Entity(player) move {position (5,4) -> (4, 4)}
+[Client] Entity(player) move {position (4,4) -> (4, 3)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(player) move {position (4,3) -> (4, 2)}
+[Client] Entity(player) move {position (4,2) -> (4, 1)}
+[Client] Entity(player) move {position (4,1) -> (5, 1)}
+[Client] Entity(player) move {position (5,1) -> (6, 1)}
+[Client] Entity(player) move {position (6,1) -> (7, 1)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(player) move {position (7,1) -> (8, 1)}
+[Client] Entity(player) move {position (8,1) -> (9, 1)}
+[Client] Entity(player) move {position (9,1) -> (10, 1)}
+[Client] Entity(player) move {position (10,1) -> (10, 2)}
+[Client] Entity(player) move {position (10,2) -> (11, 2)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(player) move {position (11,2) -> (12, 2)}
+[Client] Entity(player) move {position (12,2) -> (12, 3)}
+[Server] send message[Server,0,7,0,0,summon,entity,17,4]
+[Client] Entity(player) move {position (12,3) -> (11, 3)}
+[Client] Get Item {name: portion, position(11, 3)
+[Client] Entity(player) move {position (11,3) -> (11, 4)}
+[Client] Entity(player) move {position (11,4) -> (12, 4)}
+[Client] Entity(druid) attack. {attackPoint:25, position(9, 4)
+[Client] Entity(player) move {position (12,4) -> (12, 5)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(player) move {position (12,5) -> (12, 6)}
+[Client] Entity(player) move {position (12,6) -> (13, 6)}
+[Client] Entity(player) move {position (13,6) -> (14, 6)}
+[Client] Entity(druid) attack. {attackPoint:25, position(9, 4)
+[Client] Entity(druid) attack. {attackPoint:25, position(9, 4)
+[Client] Entity(druid) attack. {attackPoint:25, position(9, 4)
+[Client] Entity(druid) attack. {attackPoint:25, position(9, 4)
+[Client] Entity(player) move {position (14,6) -> (14, 7)}
+[Client] Entity(druid) attack. {attackPoint:25, position(9, 4)
+[Client] Entity(player) move {position (14,7) -> (14, 8)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(player) move {position (14,8) -> (14, 9)}
+[Client] Entity(druid) dead.
+[Server] send message[Server,0,7,0,0,summon,entity,17,23]
+[Client] Entity(player) move {position (14,9) -> (14, 10)}
+[Client] Entity(player) move {position (14,10) -> (14, 11)}
+[Client] Entity(player) move {position (14,11) -> (14, 12)}
+[Client] Entity(druid) attack. {attackPoint:25, position(14, 9)
+[Client] Entity(druid) attack. {attackPoint:25, position(14, 9)
+[Client] Entity(player) move {position (14,12) -> (15, 12)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(druid) dead.
+[Client] Entity(player) move {position (15,12) -> (15, 13)}
+[Client] Entity(player) move {position (15,13) -> (16, 13)}
+[Client] Entity(player) move {position (16,13) -> (16, 14)}
+[Client] Entity(player) move {position (16,14) -> (16, 15)}
+[Client] Get Item {name: sword_level1, position(16, 15)
+[Client] Entity(player) move {position (16,15) -> (16, 16)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Server] send message[Server,0,7,0,0,summon,entity,21,6]
+[Client] Entity(player) move {position (16,16) -> (16, 17)}
+[Client] Entity(player) move {position (16,17) -> (16, 18)}
+[Client] Entity(player) move {position (16,18) -> (16, 19)}
+[Client] Entity(player) move {position (16,19) -> (16, 18)}
+[Client] Entity(druid) attack. {attackPoint:25, position(14, 23)
+[Client] Entity(player) move {position (16,18) -> (15, 18)}
+[Client] Entity(player) move {position (15,18) -> (15, 19)}
+[Client] Entity(dark_yellow_slime) attack. {attackPoint:15, position(19, 19)
+[Client] Entity(player) move {position (15,19) -> (14, 19)}
+[Client] Entity(druid) dead.
+[Client] Entity(player) move {position (14,19) -> (14, 20)}
+[Client] Enti
